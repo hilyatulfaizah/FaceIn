@@ -57,22 +57,9 @@ Detailed explanation of the project (features, system flow, and implementation) 
 
 ---
 
-## 📌 Notes
-This project is currently **not publicly deployed**.  
-The repository is created to showcase development skills, system design, and implementation approach.
-
----
-
 ## 📷 Preview
 
-https://github.com/user-attachments/assets/YOUR-PREVIEW-LINK-HERE
 
----
+https://github.com/user-attachments/assets/7b436785-9c21-44cb-89f0-6f42e7349dde
 
-🖼 **Images**  
-Add your screenshots or demo images to the `images/` folder and reference them in the README:  
 
-```markdown
-![Login Screen](images/login.png)
-![Face Scan](images/face_scan.png)
-![Dashboard](images/dashboard.png)
