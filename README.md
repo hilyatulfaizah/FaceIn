@@ -1,3 +1,4 @@
+
 # FaceIn 👤📸
 
 A Flutter-based smart attendance system using face recognition technology. FaceIn enables automated check-in and check-out with real-time data synchronization, providing a modern and efficient alternative to traditional attendance systems.
@@ -61,5 +62,8 @@ Detailed explanation of the project (features, system flow, and implementation) 
 
 
 https://github.com/user-attachments/assets/7b436785-9c21-44cb-89f0-6f42e7349dde
+
+<img width="5400" height="7200" alt="POSTER FYP" src="https://github.com/user-attachments/assets/81fc7a33-dd16-4068-8a80-d13da27a8413" />
+
 
 
